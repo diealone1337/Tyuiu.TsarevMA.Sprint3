@@ -1,5 +1,5 @@
-﻿using Tyuiu.TsarevMA.Sprint3.V13.Lib;
-namespace Tyuiu.TsarevMA.Sprint3.V13.Test
+﻿using Tyuiu.TsarevMA.Sprint3.Task4.V13.Lib;
+namespace Tyuiu.TsarevMA.Sprint3.Task4.V13.Test
 {
     [TestClass]
     public sealed class DataServiceTest
