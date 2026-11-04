@@ -10,7 +10,7 @@ namespace Tyuiu.TsarevMA.Sprint3.Task2.V8.Lib
 
             do
             {
-                multSeries = multSeries * (1.0 / Math.Pow(Math.Cos(k) + 1, 2));
+                multSeries = multSeries * Math.Pow(Math.Cos(k) + 1, 2);
                 k++;
             } while (k <= stopValue);
 
