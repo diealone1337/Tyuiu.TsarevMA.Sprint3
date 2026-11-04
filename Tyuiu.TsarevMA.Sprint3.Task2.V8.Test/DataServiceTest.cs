@@ -5,7 +5,7 @@ namespace Tyuiu.TsarevMA.Sprint3.Task2.V8.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void GetMultiplySeries()
+        public void GetMultiplySeries() 
         {
             DataService ds = new DataService();
 
